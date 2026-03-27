@@ -1,3 +1,4 @@
+
 Student Profile & Hobby Tracker:
 A simple Python CLI application built to manage student information and track extracurricular interests. This project focuses heavily on List Mutability and Data Type Handling.
 
